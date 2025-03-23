@@ -1,7 +1,7 @@
 {
   "name": "discord-kanal-bot",
   "version": "1.0.0",
-  "description": "Ein Discord Bot mit SQLite",
+  "description": "Ein Discord Bot mit Kategorie-Erstellung",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
