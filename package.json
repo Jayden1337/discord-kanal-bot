@@ -1,0 +1,14 @@
+{
+  "name": "discord-kanal-bot",
+  "version": "1.0.0",
+  "description": "Ein Discord Bot mit SQLite",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.0.0",
+    "sqlite3": "^5.0.0",
+    "dotenv": "^16.0.0"
+  }
+}
